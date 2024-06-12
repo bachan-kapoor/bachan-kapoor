@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm currently a Full Stack Development Intern at [
 
 Here are a few highlights from my GitHub repositories:
 
-- [Project Name 1](https://github.com/bachan-kapoor/amazon-clone): This is a simple Amazon Clone Web Application.
-- [Project Name 2](https://github.com/bachan-kapoor/File-shearing-system): This is a basically my minor project which is based on problem that when we went to print shop to print our document then after printing our files may remains in thier devices , may be later they misuse them so overcome from these type of problem be try to find a solution that is we don't need to ssend out files to then we prvide a link our files with a single common environmeent from which the shop owner directly print files without need of download.
+- [Amazon Clone](https://github.com/bachan-kapoor/amazon-clone): This is a simple Amazon Clone Web Application.
+- [File Sharing Web Application](https://github.com/bachan-kapoor/File-shearing-system): This is a basically my minor project which is based on problem that when we went to print shop to print our document then after printing our files may remains in thier devices , may be later they misuse them so overcome from these type of problem be try to find a solution that is we don't need to ssend out files to then we prvide a link our files with a single common environmeent from which the shop owner directly print files without need of download.
 
 Feel free to check out my repositories to see more of my work!
 
